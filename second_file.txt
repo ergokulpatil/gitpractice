@@ -1,1 +1,2 @@
 This is second file in git
+The file is upated with new line-2
